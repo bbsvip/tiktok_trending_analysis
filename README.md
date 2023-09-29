@@ -1,14 +1,20 @@
-# tiktok-trending-data
-Repo that scrapes discovery data from TikTok!
+# tiktok-discovery-api-history
+This repo scrapes TikToks Web API automatically using GitHub Actions and monitors changes to its discovery endpoint on 3 different subdomains.
 
-This repo scrapes TikTok's Web Discovery API every 1 hour and makes commit whenever it detects any change.
-It scrapes data from "t.tiktok.com", "www.tiktok.com" and "m.tiktok.com". All of them show different trending data, not sure why. From my experience "t.tiktok.com" is the best and most reliable endpoint.
+All pages are downloaded as JSON and prettyfied with jq. A commit is made whenever a change is detected and all changes can be viewed throughout the commit history.
 
-Inspired by antiops' TikTok Trending Data (https://github.com/antiops/tiktok-trending-data).
 
-# Features:
+## Inspiration: 
+ - [Git scraping: track changes over time by scraping to a Git repository by Simon Willison](https://simonwillison.net/2020/Oct/9/git-scraping/)
+ - [California fire data history](https://github.com/simonw/ca-fires-history)
 
-* Avatars available in 4 resolutions and 2 extensions (total of 8)
-* Avatars never expire! (TikTok made user avatars expire after 24 hours)
-* Nice JSON formatting
-* Shows trending users, hashtags and songs!
+## Improvements: 
+ - ignore covers or just remove signature from their urls. Its not constant
+
+---
+**History:**
+- `05/22/2023`: Use API params that return more data and 1080p videos
+- `05/19/2023`: Re-enabled. Updated domains and added API feed
+- `01/06/2023`: scrape machine broke
+- `12/19/2021`: Re-enabled the workflow, test run returned good data
+- `03/20/2021`: Disabled because TikTok now has captchas preventing collection of open trending data
