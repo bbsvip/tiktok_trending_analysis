@@ -4628,19 +4628,6 @@
     "source": 2
   },
   {
-    "id": 8268,
-    "name": "Chúc ngủ ngon",
-    "describe": "đã gửi Chúc ngủ ngon",
-    "diamond_count": 399,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/b7b55087141bd5f965eb31a99a5f157b~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
     "id": 15478,
     "name": "Bún bò",
     "describe": "đã gửi Bún bò",
@@ -5457,6 +5444,19 @@
       ]
     },
     "type": 1,
+    "source": 2
+  },
+  {
+    "id": 8268,
+    "name": "Chúc ngủ ngon",
+    "describe": "đã gửi Chúc ngủ ngon",
+    "diamond_count": 399,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/b7b55087141bd5f965eb31a99a5f157b~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 2
   }
 ]
