@@ -3172,26 +3172,26 @@
     "source": 1
   },
   {
-    "id": 15348,
-    "name": "Hawaiian Lei",
-    "describe": "đã gửi Hawaiian Lei",
-    "diamond_count": 299,
+    "id": 15346,
+    "name": "Huy chương Bảng xếp hạng LIVE",
+    "describe": "đã gửi Huy chương Bảng xếp hạng LIVE",
+    "diamond_count": 2999,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
       ]
     },
-    "type": 4,
+    "type": 2,
     "source": 1
   },
   {
-    "id": 9101,
-    "name": "TikTok Universe",
-    "describe": "đã gửi TikTok Universe",
-    "diamond_count": 44999,
+    "id": 15345,
+    "name": "Movie Time",
+    "describe": "đã gửi Movie Time",
+    "diamond_count": 15000,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3211,29 +3211,16 @@
     "source": 1
   },
   {
-    "id": 15345,
-    "name": "Movie Time",
-    "describe": "đã gửi Movie Time",
-    "diamond_count": 15000,
+    "id": 15348,
+    "name": "Hawaiian Lei",
+    "describe": "đã gửi Hawaiian Lei",
+    "diamond_count": 299,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
       ]
     },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15346,
-    "name": "Huy chương Bảng xếp hạng LIVE",
-    "describe": "đã gửi Huy chương Bảng xếp hạng LIVE",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
+    "type": 4,
     "source": 1
   },
   {
@@ -3244,6 +3231,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee2fb724fd8ec341460187d3e182009.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 9101,
+    "name": "TikTok Universe",
+    "describe": "đã gửi TikTok Universe",
+    "diamond_count": 44999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4823,45 +4823,6 @@
     "source": 2
   },
   {
-    "id": 7060,
-    "name": "Chiến thắng",
-    "describe": "đã gửi Chiến thắng",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/54c841ca3aebd0d81ae568b71f8233c9~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 7594,
-    "name": "Thần trượng",
-    "describe": "đã gửi Thần trượng",
-    "diamond_count": 5,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/94b3f0f4f6b1da3bab94de96493de031~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 15569,
-    "name": "Hóng drama",
-    "describe": "đã gửi Hóng drama",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/28d0161792a322dfe4f9526540a406b9.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 8267,
     "name": "Chào buổi tối",
     "describe": "đã gửi Chào buổi tối",
@@ -5545,6 +5506,45 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/3ac5ec732f6f4ba7b1492248bfea83d6~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 15569,
+    "name": "Hóng drama",
+    "describe": "đã gửi Hóng drama",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/28d0161792a322dfe4f9526540a406b9.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 7060,
+    "name": "Chiến thắng",
+    "describe": "đã gửi Chiến thắng",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/54c841ca3aebd0d81ae568b71f8233c9~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 7594,
+    "name": "Thần trượng",
+    "describe": "đã gửi Thần trượng",
+    "diamond_count": 5,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/94b3f0f4f6b1da3bab94de96493de031~tplv-obj.webp"
       ]
     },
     "type": 1,
