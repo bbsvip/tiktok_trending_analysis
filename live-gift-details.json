@@ -53,8 +53,8 @@
   },
   {
     "id": 15343,
-    "name": "Hearty Talk",
-    "describe": "đã gửi Hearty Talk",
+    "name": "Cuộc trò chuyện chân thành",
+    "describe": "đã gửi Cuộc trò chuyện chân thành",
     "diamond_count": 1,
     "image": {
       "url_list": [
@@ -66,8 +66,8 @@
   },
   {
     "id": 15342,
-    "name": "Charge me up",
-    "describe": "đã gửi Charge me up",
+    "name": "Nạp điện cho tôi",
+    "describe": "đã gửi Nạp điện cho tôi",
     "diamond_count": 1,
     "image": {
       "url_list": [
@@ -573,8 +573,8 @@
   },
   {
     "id": 15509,
-    "name": "Summer Sun",
-    "describe": "đã gửi Summer Sun",
+    "name": "Mặt trời mùa hè",
+    "describe": "đã gửi Mặt trời mùa hè",
     "diamond_count": 20,
     "image": {
       "url_list": [
@@ -963,8 +963,8 @@
   },
   {
     "id": 15507,
-    "name": "Suitcase",
-    "describe": "đã gửi Suitcase",
+    "name": "Vali",
+    "describe": "đã gửi Vali",
     "diamond_count": 199,
     "image": {
       "url_list": [
@@ -1795,8 +1795,8 @@
   },
   {
     "id": 15510,
-    "name": "Picnic basket",
-    "describe": "đã gửi Picnic basket",
+    "name": "Giỏ đi dã ngoại",
+    "describe": "đã gửi Giỏ đi dã ngoại",
     "diamond_count": 1000,
     "image": {
       "url_list": [
@@ -2497,8 +2497,8 @@
   },
   {
     "id": 15508,
-    "name": "Beach Hut",
-    "describe": "đã gửi Beach Hut",
+    "name": "Nhà gỗ bên bờ biển",
+    "describe": "đã gửi Nhà gỗ bên bờ biển",
     "diamond_count": 5000,
     "image": {
       "url_list": [
@@ -2796,8 +2796,8 @@
   },
   {
     "id": 15511,
-    "name": "Party Boat",
-    "describe": "đã gửi Party Boat",
+    "name": "Thuyền tiệc tùng",
+    "describe": "đã gửi Thuyền tiệc tùng",
     "diamond_count": 19999,
     "image": {
       "url_list": [
@@ -3133,58 +3133,6 @@
     "source": 1
   },
   {
-    "id": 15348,
-    "name": "Hawaiian Lei",
-    "describe": "đã gửi Hawaiian Lei",
-    "diamond_count": 299,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 1
-  },
-  {
-    "id": 15346,
-    "name": "Huy chương Bảng xếp hạng LIVE",
-    "describe": "đã gửi Huy chương Bảng xếp hạng LIVE",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15347,
-    "name": "Mischievous Stitch",
-    "describe": "đã gửi Mischievous Stitch",
-    "diamond_count": 1500,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee2fb724fd8ec341460187d3e182009.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15345,
-    "name": "Movie Time",
-    "describe": "đã gửi Movie Time",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 15351,
     "name": "Stitch",
     "describe": "đã gửi Stitch",
@@ -3208,6 +3156,58 @@
       ]
     },
     "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15345,
+    "name": "Giờ phim đến rồi",
+    "describe": "đã gửi Giờ phim đến rồi",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15347,
+    "name": "Stitch tinh nghịch",
+    "describe": "đã gửi Stitch tinh nghịch",
+    "diamond_count": 1500,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee2fb724fd8ec341460187d3e182009.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15346,
+    "name": "Huy chương Bảng xếp hạng LIVE",
+    "describe": "đã gửi Huy chương Bảng xếp hạng LIVE",
+    "diamond_count": 2999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15348,
+    "name": "Tràng hoa Hawaii",
+    "describe": "đã gửi Tràng hoa Hawaii",
+    "diamond_count": 299,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
     "source": 1
   },
   {
@@ -4784,45 +4784,6 @@
     "source": 2
   },
   {
-    "id": 15569,
-    "name": "Hóng drama",
-    "describe": "đã gửi Hóng drama",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/28d0161792a322dfe4f9526540a406b9.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 7060,
-    "name": "Chiến thắng",
-    "describe": "đã gửi Chiến thắng",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/54c841ca3aebd0d81ae568b71f8233c9~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 7594,
-    "name": "Thần trượng",
-    "describe": "đã gửi Thần trượng",
-    "diamond_count": 5,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/94b3f0f4f6b1da3bab94de96493de031~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 12988,
     "name": "GG siêu khủng",
     "describe": "đã gửi GG siêu khủng",
@@ -5506,6 +5467,45 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/3ac5ec732f6f4ba7b1492248bfea83d6~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 7060,
+    "name": "Chiến thắng",
+    "describe": "đã gửi Chiến thắng",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/54c841ca3aebd0d81ae568b71f8233c9~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 7594,
+    "name": "Thần trượng",
+    "describe": "đã gửi Thần trượng",
+    "diamond_count": 5,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/94b3f0f4f6b1da3bab94de96493de031~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 15569,
+    "name": "Hóng drama",
+    "describe": "đã gửi Hóng drama",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/28d0161792a322dfe4f9526540a406b9.png~tplv-obj.webp"
       ]
     },
     "type": 1,
