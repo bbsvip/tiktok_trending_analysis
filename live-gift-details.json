@@ -143,19 +143,6 @@
     "source": 1
   },
   {
-    "id": 8266,
-    "name": "Buổi chiều tốt lành",
-    "describe": "đã gửi Buổi chiều tốt lành",
-    "diamond_count": 399,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/bff3b908c4dd9cf19ab431cc99dc7940~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 9087,
     "name": "Trái tim rực lửa",
     "describe": "đã gửi Trái tim rực lửa",
@@ -169,16 +156,16 @@
     "source": 1
   },
   {
-    "id": 6592,
-    "name": "TGIF",
-    "describe": "đã gửi TGIF",
-    "diamond_count": 1,
+    "id": 8266,
+    "name": "Buổi chiều tốt lành",
+    "describe": "đã gửi Buổi chiều tốt lành",
+    "diamond_count": 399,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/bff3b908c4dd9cf19ab431cc99dc7940~tplv-obj.webp"
       ]
     },
-    "type": 1,
+    "type": 2,
     "source": 1
   },
   {
@@ -189,6 +176,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/644f6029df42ac078e6f13de19c6640c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 6592,
+    "name": "TGIF",
+    "describe": "đã gửi TGIF",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -3185,32 +3185,6 @@
     "source": 1
   },
   {
-    "id": 9101,
-    "name": "TikTok Universe",
-    "describe": "đã gửi TikTok Universe",
-    "diamond_count": 44999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15348,
-    "name": "Tràng hoa Hawaii",
-    "describe": "đã gửi Tràng hoa Hawaii",
-    "diamond_count": 299,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 1
-  },
-  {
     "id": 15351,
     "name": "Stitch",
     "describe": "đã gửi Stitch",
@@ -3221,6 +3195,19 @@
       ]
     },
     "type": 1,
+    "source": 1
+  },
+  {
+    "id": 9101,
+    "name": "TikTok Universe",
+    "describe": "đã gửi TikTok Universe",
+    "diamond_count": 44999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -3260,6 +3247,19 @@
       ]
     },
     "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15348,
+    "name": "Tràng hoa Hawaii",
+    "describe": "đã gửi Tràng hoa Hawaii",
+    "diamond_count": 299,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
     "source": 1
   },
   {
@@ -4262,71 +4262,6 @@
     },
     "type": 4,
     "source": 1
-  },
-  {
-    "id": 15218,
-    "name": "Thả Đèn Hoa Đăng",
-    "describe": "đã gửi Thả Đèn Hoa Đăng",
-    "diamond_count": 5000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/23a1c6ec88c5f29f8c11bf2df1730558.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
-    "id": 15436,
-    "name": "Chú mèo ghê rợn",
-    "describe": "đã gửi Chú mèo ghê rợn",
-    "diamond_count": 1200,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/c2413f87d3d27ac0a616ac99ccaa9278.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
-    "id": 15435,
-    "name": "Nụ hôn mì Spaghetti",
-    "describe": "đã gửi Nụ hôn mì Spaghetti",
-    "diamond_count": 500,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/04c2d9bf500b18d392c784b6faa596a3.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
-    "id": 15217,
-    "name": "Cà Phê Trứng",
-    "describe": "đã gửi Cà Phê Trứng",
-    "diamond_count": 199,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/587434d3698a63d29737925d81857a51.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
-    "id": 15216,
-    "name": "Bún Bò",
-    "describe": "đã gửi Bún Bò",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4a5814fb0042c66130172d4e95bb746e.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
   },
   {
     "id": 15588,
