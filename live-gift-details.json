@@ -156,19 +156,6 @@
     "source": 1
   },
   {
-    "id": 6592,
-    "name": "TGIF",
-    "describe": "đã gửi TGIF",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 8269,
     "name": "Buổi sáng tốt lành",
     "describe": "đã gửi Buổi sáng tốt lành",
@@ -189,6 +176,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/644f6029df42ac078e6f13de19c6640c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 6592,
+    "name": "TGIF",
+    "describe": "đã gửi TGIF",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -1742,19 +1742,6 @@
     "source": 1
   },
   {
-    "id": 11806,
-    "name": "Cây guitar mê hoặc",
-    "describe": "đã gửi Cây guitar mê hoặc",
-    "diamond_count": 999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/a77a193fa0ed2abc360ec88cd12b6695.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 6233,
     "name": "Du lịch cùng bạn",
     "describe": "đã gửi Du lịch cùng bạn",
@@ -3003,19 +2990,6 @@
     "source": 1
   },
   {
-    "id": 14766,
-    "name": "Hải cẩu và Cá voi",
-    "describe": "đã gửi Hải cẩu và Cá voi",
-    "diamond_count": 34500,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/09e7ca1bc8fd3acb9b68dc8f987cbbfd.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 8582,
     "name": "TikTok Stars",
     "describe": "đã gửi TikTok Stars",
@@ -3036,6 +3010,32 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/9cc22f7c8ac233e129dec7b981b91b76~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 14766,
+    "name": "Hải cẩu và Cá voi",
+    "describe": "đã gửi Hải cẩu và Cá voi",
+    "diamond_count": 34500,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/09e7ca1bc8fd3acb9b68dc8f987cbbfd.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 11806,
+    "name": "Cây guitar mê hoặc",
+    "describe": "đã gửi Cây guitar mê hoặc",
+    "diamond_count": 999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/a77a193fa0ed2abc360ec88cd12b6695.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3185,26 +3185,26 @@
     "source": 1
   },
   {
-    "id": 15351,
-    "name": "Stitch",
-    "describe": "đã gửi Stitch",
-    "diamond_count": 10,
+    "id": 15346,
+    "name": "Huy chương Bảng xếp hạng LIVE",
+    "describe": "đã gửi Huy chương Bảng xếp hạng LIVE",
+    "diamond_count": 2999,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/56f36dc7e7b1adf410aa98c90b5dd88d.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
       ]
     },
-    "type": 1,
+    "type": 2,
     "source": 1
   },
   {
-    "id": 9101,
-    "name": "TikTok Universe",
-    "describe": "đã gửi TikTok Universe",
-    "diamond_count": 44999,
+    "id": 15347,
+    "name": "Stitch tinh nghịch",
+    "describe": "đã gửi Stitch tinh nghịch",
+    "diamond_count": 1500,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee2fb724fd8ec341460187d3e182009.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3224,29 +3224,29 @@
     "source": 1
   },
   {
-    "id": 15347,
-    "name": "Stitch tinh nghịch",
-    "describe": "đã gửi Stitch tinh nghịch",
-    "diamond_count": 1500,
+    "id": 9101,
+    "name": "TikTok Universe",
+    "describe": "đã gửi TikTok Universe",
+    "diamond_count": 44999,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee2fb724fd8ec341460187d3e182009.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
       ]
     },
     "type": 2,
     "source": 1
   },
   {
-    "id": 15346,
-    "name": "Huy chương Bảng xếp hạng LIVE",
-    "describe": "đã gửi Huy chương Bảng xếp hạng LIVE",
-    "diamond_count": 2999,
+    "id": 15351,
+    "name": "Stitch",
+    "describe": "đã gửi Stitch",
+    "diamond_count": 10,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/56f36dc7e7b1adf410aa98c90b5dd88d.png~tplv-obj.webp"
       ]
     },
-    "type": 2,
+    "type": 1,
     "source": 1
   },
   {
