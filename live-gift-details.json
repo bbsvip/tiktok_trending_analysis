@@ -78,19 +78,6 @@
     "source": 1
   },
   {
-    "id": 15683,
-    "name": "Ngôi sao",
-    "describe": "đã gửi Ngôi sao",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/16a55cac42880dc55be5d8ea716f0a61.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 15579,
     "name": "Thú cưng ngoài hành tinh",
     "describe": "đã gửi Thú cưng ngoài hành tinh",
@@ -143,19 +130,6 @@
     "source": 1
   },
   {
-    "id": 8268,
-    "name": "Chúc ngủ ngon",
-    "describe": "đã gửi Chúc ngủ ngon",
-    "diamond_count": 399,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/b7b55087141bd5f965eb31a99a5f157b~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 15342,
     "name": "Nạp điện cho tôi",
     "describe": "đã gửi Nạp điện cho tôi",
@@ -166,6 +140,19 @@
       ]
     },
     "type": 1,
+    "source": 1
+  },
+  {
+    "id": 8268,
+    "name": "Chúc ngủ ngon",
+    "describe": "đã gửi Chúc ngủ ngon",
+    "diamond_count": 399,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/b7b55087141bd5f965eb31a99a5f157b~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -1625,19 +1612,6 @@
     "source": 1
   },
   {
-    "id": 8650,
-    "name": "Nước thần",
-    "describe": "đã gửi Nước thần",
-    "diamond_count": 499,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e055625e9239df7e833702c768e033d2.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 5731,
     "name": "San hô",
     "describe": "đã gửi San hô",
@@ -1892,19 +1866,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/753098e5a8f45afa965b73616c04cf89~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15682,
-    "name": "Siêu sao",
-    "describe": "đã gửi Siêu sao",
-    "diamond_count": 1000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/21a0ba983b6ca9422134060c6604ccf0.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -2568,19 +2529,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/3646c259f8ce6f79c762ad00ce51dda0~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 8696,
-    "name": "Cuộc phiêu lưu giữa ngân hà",
-    "describe": "đã gửi Cuộc phiêu lưu giữa ngân hà",
-    "diamond_count": 4000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/a469f9a29eb691bd76788a2254b246e5~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3419,19 +3367,6 @@
     "source": 1
   },
   {
-    "id": 15345,
-    "name": "Giờ phim đến rồi",
-    "describe": "đã gửi Giờ phim đến rồi",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 9101,
     "name": "TikTok Universe",
     "describe": "đã gửi TikTok Universe",
@@ -3442,6 +3377,19 @@
       ]
     },
     "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15348,
+    "name": "Tràng hoa Hawaii",
+    "describe": "đã gửi Tràng hoa Hawaii",
+    "diamond_count": 299,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
     "source": 1
   },
   {
@@ -3458,16 +3406,16 @@
     "source": 1
   },
   {
-    "id": 15348,
-    "name": "Tràng hoa Hawaii",
-    "describe": "đã gửi Tràng hoa Hawaii",
-    "diamond_count": 299,
+    "id": 15345,
+    "name": "Giờ phim đến rồi",
+    "describe": "đã gửi Giờ phim đến rồi",
+    "diamond_count": 15000,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/91baf7a414a9ba7fe48cdf990330632b.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
       ]
     },
-    "type": 4,
+    "type": 2,
     "source": 1
   },
   {
