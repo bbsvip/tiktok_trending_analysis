@@ -3263,19 +3263,6 @@
     "source": 1
   },
   {
-    "id": 15345,
-    "name": "Giờ phim đến rồi",
-    "describe": "đã gửi Giờ phim đến rồi",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 15346,
     "name": "Huy chương Bảng xếp hạng LIVE",
     "describe": "đã gửi Huy chương Bảng xếp hạng LIVE",
@@ -3325,6 +3312,19 @@
       ]
     },
     "type": 1,
+    "source": 1
+  },
+  {
+    "id": 15345,
+    "name": "Giờ phim đến rồi",
+    "describe": "đã gửi Giờ phim đến rồi",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
