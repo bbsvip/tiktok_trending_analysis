@@ -156,19 +156,6 @@
     "source": 1
   },
   {
-    "id": 6592,
-    "name": "TGIF",
-    "describe": "đã gửi TGIF",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 8267,
     "name": "Chào buổi tối",
     "describe": "đã gửi Chào buổi tối",
@@ -192,6 +179,19 @@
       ]
     },
     "type": 2,
+    "source": 1
+  },
+  {
+    "id": 6592,
+    "name": "TGIF",
+    "describe": "đã gửi TGIF",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 1
   },
   {
@@ -3705,19 +3705,6 @@
     "source": 1
   },
   {
-    "id": 15347,
-    "name": "Stitch tinh nghịch",
-    "describe": "đã gửi Stitch tinh nghịch",
-    "diamond_count": 1500,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee2fb724fd8ec341460187d3e182009.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 15012,
     "name": "Vua Leonardo",
     "describe": "đã gửi Vua Leonardo",
@@ -3731,29 +3718,68 @@
     "source": 1
   },
   {
-    "id": 15351,
-    "name": "Stitch",
-    "describe": "đã gửi Stitch",
-    "diamond_count": 10,
+    "id": 14704,
+    "name": "Thành trì Skyforge",
+    "describe": "đã gửi Thành trì Skyforge",
+    "diamond_count": 25999,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/56f36dc7e7b1adf410aa98c90b5dd88d.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee1ebafdff869067004414ed4d6132d.png~tplv-obj.webp"
       ]
     },
-    "type": 1,
+    "type": 2,
     "source": 1
   },
   {
-    "id": 15079,
-    "name": "Community Fest",
-    "describe": "đã gửi Community Fest",
-    "diamond_count": 1,
+    "id": 15345,
+    "name": "Giờ phim đến rồi",
+    "describe": "đã gửi Giờ phim đến rồi",
+    "diamond_count": 15000,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ce18c30e3a1675138beeac61e2e01269.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
       ]
     },
-    "type": 1,
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15081,
+    "name": "Cộng đồng của Jollie",
+    "describe": "đã gửi Cộng đồng của Jollie",
+    "diamond_count": 399,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d0278907a72d63416317eb71ce2ed830.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 1
+  },
+  {
+    "id": 9101,
+    "name": "TikTok Universe",
+    "describe": "đã gửi TikTok Universe",
+    "diamond_count": 44999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15011,
+    "name": "Lâu đài ánh sáng",
+    "describe": "đã gửi Lâu đài ánh sáng",
+    "diamond_count": 25999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4b287cbc15d1c10111c1a86945b5d40.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -3796,13 +3822,13 @@
     "source": 1
   },
   {
-    "id": 15345,
-    "name": "Giờ phim đến rồi",
-    "describe": "đã gửi Giờ phim đến rồi",
-    "diamond_count": 15000,
+    "id": 15347,
+    "name": "Stitch tinh nghịch",
+    "describe": "đã gửi Stitch tinh nghịch",
+    "diamond_count": 1500,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/793457ca3c8e8c4c492d870e040458df.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee2fb724fd8ec341460187d3e182009.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3822,42 +3848,42 @@
     "source": 1
   },
   {
-    "id": 14704,
-    "name": "Thành trì Skyforge",
-    "describe": "đã gửi Thành trì Skyforge",
-    "diamond_count": 25999,
+    "id": 15082,
+    "name": "Đại tiệc cộng đồng",
+    "describe": "đã gửi Đại tiệc cộng đồng",
+    "diamond_count": 2999,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee1ebafdff869067004414ed4d6132d.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/14fad469dfc49a552920c593191bfba5.png~tplv-obj.webp"
       ]
     },
     "type": 2,
     "source": 1
   },
   {
-    "id": 15081,
-    "name": "Cộng đồng của Jollie",
-    "describe": "đã gửi Cộng đồng của Jollie",
-    "diamond_count": 399,
+    "id": 15351,
+    "name": "Stitch",
+    "describe": "đã gửi Stitch",
+    "diamond_count": 10,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d0278907a72d63416317eb71ce2ed830.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/56f36dc7e7b1adf410aa98c90b5dd88d.png~tplv-obj.webp"
       ]
     },
-    "type": 4,
+    "type": 1,
     "source": 1
   },
   {
-    "id": 9101,
-    "name": "TikTok Universe",
-    "describe": "đã gửi TikTok Universe",
-    "diamond_count": 44999,
+    "id": 15079,
+    "name": "Community Fest",
+    "describe": "đã gửi Community Fest",
+    "diamond_count": 1,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ce18c30e3a1675138beeac61e2e01269.png~tplv-obj.webp"
       ]
     },
-    "type": 2,
+    "type": 1,
     "source": 1
   },
   {
@@ -3881,32 +3907,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7361362b799f7b18ccb48467cae642af.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15011,
-    "name": "Lâu đài ánh sáng",
-    "describe": "đã gửi Lâu đài ánh sáng",
-    "diamond_count": 25999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4b287cbc15d1c10111c1a86945b5d40.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15082,
-    "name": "Đại tiệc cộng đồng",
-    "describe": "đã gửi Đại tiệc cộng đồng",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/14fad469dfc49a552920c593191bfba5.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4914,19 +4914,6 @@
     "source": 2
   },
   {
-    "id": 16051,
-    "name": "Kim cương",
-    "describe": "đã gửi Kim cương",
-    "diamond_count": 1099,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/55ee5e871f7f413d24521f824682bb10.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
     "id": 7575,
     "name": "Thùng thính",
     "describe": "đã gửi Thùng thính",
@@ -5717,6 +5704,19 @@
       ]
     },
     "type": 1,
+    "source": 2
+  },
+  {
+    "id": 16051,
+    "name": "Kim cương",
+    "describe": "đã gửi Kim cương",
+    "diamond_count": 1099,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/55ee5e871f7f413d24521f824682bb10.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 2
   }
 ]
