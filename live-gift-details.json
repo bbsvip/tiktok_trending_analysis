@@ -3536,19 +3536,6 @@
     "source": 1
   },
   {
-    "id": 16377,
-    "name": "Giai đoạn Grand Prix",
-    "describe": "đã gửi Giai đoạn Grand Prix",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4ab2b1c3d5ce336a97eeaf2a8f131c00.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 15079,
     "name": "Community Fest",
     "describe": "đã gửi Community Fest",
@@ -3559,6 +3546,58 @@
       ]
     },
     "type": 1,
+    "source": 1
+  },
+  {
+    "id": 16378,
+    "name": "Kỳ nghỉ hè của Rilakkuma",
+    "describe": "đã gửi Kỳ nghỉ hè của Rilakkuma",
+    "diamond_count": 12000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 9101,
+    "name": "TikTok Universe",
+    "describe": "đã gửi TikTok Universe",
+    "diamond_count": 44999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15012,
+    "name": "Vua Leonardo",
+    "describe": "đã gửi Vua Leonardo",
+    "diamond_count": 42999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dea6aa2fbb6622c2b8c95313c50b0d13.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 16376,
+    "name": "Điệu nhảy Rilakkuma",
+    "describe": "đã gửi Điệu nhảy Rilakkuma",
+    "diamond_count": 1999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/3ed3fa1ae33cf958b663b096738b866c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -3588,55 +3627,16 @@
     "source": 1
   },
   {
-    "id": 15012,
-    "name": "Vua Leonardo",
-    "describe": "đã gửi Vua Leonardo",
-    "diamond_count": 42999,
+    "id": 16374,
+    "name": "Chuyến phiêu lưu",
+    "describe": "đã gửi Chuyến phiêu lưu",
+    "diamond_count": 30,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dea6aa2fbb6622c2b8c95313c50b0d13.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9d1896b3d5c2a135a77518f413bfc22b.png~tplv-obj.webp"
       ]
     },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 9101,
-    "name": "TikTok Universe",
-    "describe": "đã gửi TikTok Universe",
-    "diamond_count": 44999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 16376,
-    "name": "Điệu nhảy Rilakkuma",
-    "describe": "đã gửi Điệu nhảy Rilakkuma",
-    "diamond_count": 1999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/3ed3fa1ae33cf958b663b096738b866c.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 16378,
-    "name": "Kỳ nghỉ hè của Rilakkuma",
-    "describe": "đã gửi Kỳ nghỉ hè của Rilakkuma",
-    "diamond_count": 12000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
+    "type": 1,
     "source": 1
   },
   {
@@ -3650,6 +3650,19 @@
       ]
     },
     "type": 4,
+    "source": 1
+  },
+  {
+    "id": 16377,
+    "name": "Giai đoạn Grand Prix",
+    "describe": "đã gửi Giai đoạn Grand Prix",
+    "diamond_count": 2999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4ab2b1c3d5ce336a97eeaf2a8f131c00.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -3676,19 +3689,6 @@
       ]
     },
     "type": 2,
-    "source": 1
-  },
-  {
-    "id": 16374,
-    "name": "Chuyến phiêu lưu",
-    "describe": "đã gửi Chuyến phiêu lưu",
-    "diamond_count": 30,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9d1896b3d5c2a135a77518f413bfc22b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
     "source": 1
   },
   {
@@ -4875,32 +4875,6 @@
     "source": 1
   },
   {
-    "id": 8265,
-    "name": "Thứ Sáu vui vẻ",
-    "describe": "đã gửi Thứ Sáu vui vẻ",
-    "diamond_count": 399,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/65e8fcb76825b9ec36a24faf9a3e9495~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
-    "id": 6592,
-    "name": "TGIF",
-    "describe": "đã gửi TGIF",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 8264,
     "name": "Cuối tuần vui vẻ",
     "describe": "đã gửi Cuối tuần vui vẻ",
@@ -4911,19 +4885,6 @@
       ]
     },
     "type": 2,
-    "source": 2
-  },
-  {
-    "id": 10533,
-    "name": "FFWS",
-    "describe": "đã gửi FFWS",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ebac8ecf70886f57ba5d174a6e9057e7.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
     "source": 2
   },
   {
@@ -5798,6 +5759,32 @@
     "source": 2
   },
   {
+    "id": 8265,
+    "name": "Thứ Sáu vui vẻ",
+    "describe": "đã gửi Thứ Sáu vui vẻ",
+    "diamond_count": 399,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/65e8fcb76825b9ec36a24faf9a3e9495~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 6592,
+    "name": "TGIF",
+    "describe": "đã gửi TGIF",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 12988,
     "name": "GG siêu khủng",
     "describe": "đã gửi GG siêu khủng",
@@ -5821,6 +5808,19 @@
       ]
     },
     "type": 2,
+    "source": 2
+  },
+  {
+    "id": 10533,
+    "name": "FFWS",
+    "describe": "đã gửi FFWS",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ebac8ecf70886f57ba5d174a6e9057e7.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 2
   }
 ]
