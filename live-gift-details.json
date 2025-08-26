@@ -3809,19 +3809,6 @@
     "source": 1
   },
   {
-    "id": 16377,
-    "name": "Giai đoạn Grand Prix",
-    "describe": "đã gửi Giai đoạn Grand Prix",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4ab2b1c3d5ce336a97eeaf2a8f131c00.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 16375,
     "name": "Tai của Rilakkuma",
     "describe": "đã gửi Tai của Rilakkuma",
@@ -3832,19 +3819,6 @@
       ]
     },
     "type": 4,
-    "source": 1
-  },
-  {
-    "id": 15011,
-    "name": "Lâu đài ánh sáng",
-    "describe": "đã gửi Lâu đài ánh sáng",
-    "diamond_count": 25999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4b287cbc15d1c10111c1a86945b5d40.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
     "source": 1
   },
   {
@@ -3874,13 +3848,13 @@
     "source": 1
   },
   {
-    "id": 16378,
-    "name": "Kỳ nghỉ hè của Rilakkuma",
-    "describe": "đã gửi Kỳ nghỉ hè của Rilakkuma",
-    "diamond_count": 12000,
+    "id": 16377,
+    "name": "Giai đoạn Grand Prix",
+    "describe": "đã gửi Giai đoạn Grand Prix",
+    "diamond_count": 2999,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4ab2b1c3d5ce336a97eeaf2a8f131c00.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3900,19 +3874,6 @@
     "source": 1
   },
   {
-    "id": 9101,
-    "name": "TikTok Universe",
-    "describe": "đã gửi TikTok Universe",
-    "diamond_count": 44999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 16374,
     "name": "Chuyến phiêu lưu",
     "describe": "đã gửi Chuyến phiêu lưu",
@@ -3923,6 +3884,45 @@
       ]
     },
     "type": 1,
+    "source": 1
+  },
+  {
+    "id": 15011,
+    "name": "Lâu đài ánh sáng",
+    "describe": "đã gửi Lâu đài ánh sáng",
+    "diamond_count": 25999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4b287cbc15d1c10111c1a86945b5d40.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 16378,
+    "name": "Kỳ nghỉ hè của Rilakkuma",
+    "describe": "đã gửi Kỳ nghỉ hè của Rilakkuma",
+    "diamond_count": 12000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 9101,
+    "name": "TikTok Universe",
+    "describe": "đã gửi TikTok Universe",
+    "diamond_count": 44999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -4979,19 +4979,6 @@
     "source": 2
   },
   {
-    "id": 8267,
-    "name": "Chào buổi tối",
-    "describe": "đã gửi Chào buổi tối",
-    "diamond_count": 399,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0015a756ff783f37a2cf3b5d634b3cd6~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
     "id": 8268,
     "name": "Chúc ngủ ngon",
     "describe": "đã gửi Chúc ngủ ngon",
@@ -5792,6 +5779,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/963e12ba84805721d96b06deaf5d660b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 8267,
+    "name": "Chào buổi tối",
+    "describe": "đã gửi Chào buổi tối",
+    "diamond_count": 399,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0015a756ff783f37a2cf3b5d634b3cd6~tplv-obj.webp"
       ]
     },
     "type": 2,
