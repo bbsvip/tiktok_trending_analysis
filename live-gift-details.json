@@ -156,6 +156,19 @@
     "source": 1
   },
   {
+    "id": 6592,
+    "name": "TGIF",
+    "describe": "đã gửi TGIF",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
     "id": 8268,
     "name": "Chúc ngủ ngon",
     "describe": "đã gửi Chúc ngủ ngon",
@@ -179,19 +192,6 @@
       ]
     },
     "type": 2,
-    "source": 1
-  },
-  {
-    "id": 6592,
-    "name": "TGIF",
-    "describe": "đã gửi TGIF",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
     "source": 1
   },
   {
@@ -3926,16 +3926,16 @@
     "source": 1
   },
   {
-    "id": 16374,
-    "name": "Chuyến phiêu lưu",
-    "describe": "đã gửi Chuyến phiêu lưu",
-    "diamond_count": 30,
+    "id": 16378,
+    "name": "Kỳ nghỉ hè của Rilakkuma",
+    "describe": "đã gửi Kỳ nghỉ hè của Rilakkuma",
+    "diamond_count": 12000,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9d1896b3d5c2a135a77518f413bfc22b.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
       ]
     },
-    "type": 1,
+    "type": 2,
     "source": 1
   },
   {
@@ -3965,32 +3965,6 @@
     "source": 1
   },
   {
-    "id": 15012,
-    "name": "Vua Leonardo",
-    "describe": "đã gửi Vua Leonardo",
-    "diamond_count": 42999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dea6aa2fbb6622c2b8c95313c50b0d13.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 16378,
-    "name": "Kỳ nghỉ hè của Rilakkuma",
-    "describe": "đã gửi Kỳ nghỉ hè của Rilakkuma",
-    "diamond_count": 12000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 16375,
     "name": "Tai của Rilakkuma",
     "describe": "đã gửi Tai của Rilakkuma",
@@ -4001,6 +3975,19 @@
       ]
     },
     "type": 4,
+    "source": 1
+  },
+  {
+    "id": 15012,
+    "name": "Vua Leonardo",
+    "describe": "đã gửi Vua Leonardo",
+    "diamond_count": 42999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dea6aa2fbb6622c2b8c95313c50b0d13.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -4040,6 +4027,19 @@
       ]
     },
     "type": 2,
+    "source": 1
+  },
+  {
+    "id": 16374,
+    "name": "Chuyến phiêu lưu",
+    "describe": "đã gửi Chuyến phiêu lưu",
+    "diamond_count": 30,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9d1896b3d5c2a135a77518f413bfc22b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 1
   },
   {
