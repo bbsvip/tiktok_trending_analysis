@@ -143,19 +143,6 @@
     "source": 1
   },
   {
-    "id": 15507,
-    "name": "Vali",
-    "describe": "đã gửi Vali",
-    "diamond_count": 199,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ebb5bcf8d8fe3f8975eeb76b37ddbd77.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 8269,
     "name": "Buổi sáng tốt lành",
     "describe": "đã gửi Buổi sáng tốt lành",
@@ -163,6 +150,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/5c1a28f3aa7eefc27491f3020748ce54~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15507,
+    "name": "Vali",
+    "describe": "đã gửi Vali",
+    "diamond_count": 199,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ebb5bcf8d8fe3f8975eeb76b37ddbd77.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4004,19 +4004,6 @@
     "source": 1
   },
   {
-    "id": 16901,
-    "name": "Tiny Diny",
-    "describe": "đã gửi Tiny Diny",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4a3dbfc29ec50176a9b4bafad10abbd.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 17237,
     "name": "Tiny Diny đang yêu",
     "describe": "đã gửi Tiny Diny đang yêu",
@@ -4037,6 +4024,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/a03e11b24f157a26c49cac518450573f.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 16901,
+    "name": "Tiny Diny",
+    "describe": "đã gửi Tiny Diny",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4a3dbfc29ec50176a9b4bafad10abbd.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -5252,19 +5252,6 @@
     "source": 2
   },
   {
-    "id": 17021,
-    "name": "Bánh Trung Thu",
-    "describe": "đã gửi Bánh Trung Thu",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dd7eacf80fc7c6a476fbc04742208b9c.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 8268,
     "name": "Chúc ngủ ngon",
     "describe": "đã gửi Chúc ngủ ngon",
@@ -6146,6 +6133,19 @@
       ]
     },
     "type": 2,
+    "source": 2
+  },
+  {
+    "id": 17021,
+    "name": "Bánh Trung Thu",
+    "describe": "đã gửi Bánh Trung Thu",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dd7eacf80fc7c6a476fbc04742208b9c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 2
   }
 ]
