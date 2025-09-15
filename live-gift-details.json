@@ -3991,13 +3991,13 @@
     "source": 1
   },
   {
-    "id": 16130,
-    "name": "Tiny Diny cùng xúc xích",
-    "describe": "đã gửi Tiny Diny cùng xúc xích",
-    "diamond_count": 20,
+    "id": 17237,
+    "name": "Tiny Diny đang yêu",
+    "describe": "đã gửi Tiny Diny đang yêu",
+    "diamond_count": 15,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/a03e11b24f157a26c49cac518450573f.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8dfcceb32feb70403281f02aa808fe0b.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -4017,13 +4017,13 @@
     "source": 1
   },
   {
-    "id": 17237,
-    "name": "Tiny Diny đang yêu",
-    "describe": "đã gửi Tiny Diny đang yêu",
-    "diamond_count": 15,
+    "id": 16130,
+    "name": "Tiny Diny cùng xúc xích",
+    "describe": "đã gửi Tiny Diny cùng xúc xích",
+    "diamond_count": 20,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8dfcceb32feb70403281f02aa808fe0b.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/a03e11b24f157a26c49cac518450573f.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -5070,19 +5070,6 @@
     "source": 1
   },
   {
-    "id": 6432,
-    "name": "Ngôi sao",
-    "describe": "đã gửi Ngôi sao",
-    "diamond_count": 99,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/485175fda92f4d2f862e915cbcf8f5c4~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 1
-  },
-  {
     "id": 15392,
     "name": "Ký hiệu trái tim",
     "describe": "đã gửi Ký hiệu trái tim",
@@ -5275,19 +5262,6 @@
       ]
     },
     "type": 2,
-    "source": 2
-  },
-  {
-    "id": 17021,
-    "name": "Bánh Trung Thu",
-    "describe": "đã gửi Bánh Trung Thu",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dd7eacf80fc7c6a476fbc04742208b9c.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
     "source": 2
   },
   {
@@ -5993,6 +5967,19 @@
     "source": 2
   },
   {
+    "id": 6432,
+    "name": "Ngôi sao",
+    "describe": "đã gửi Ngôi sao",
+    "diamond_count": 99,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/485175fda92f4d2f862e915cbcf8f5c4~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 2
+  },
+  {
     "id": 15064,
     "name": "Mũ đua xe",
     "describe": "đã gửi Mũ đua xe",
@@ -6159,6 +6146,19 @@
       ]
     },
     "type": 2,
+    "source": 2
+  },
+  {
+    "id": 17021,
+    "name": "Bánh Trung Thu",
+    "describe": "đã gửi Bánh Trung Thu",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dd7eacf80fc7c6a476fbc04742208b9c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 2
   }
 ]
