@@ -3939,19 +3939,6 @@
     "source": 1
   },
   {
-    "id": 9101,
-    "name": "TikTok Universe",
-    "describe": "đã gửi TikTok Universe",
-    "diamond_count": 44999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 17237,
     "name": "Tiny Diny đang yêu",
     "describe": "đã gửi Tiny Diny đang yêu",
@@ -3962,6 +3949,19 @@
       ]
     },
     "type": 1,
+    "source": 1
+  },
+  {
+    "id": 9101,
+    "name": "TikTok Universe",
+    "describe": "đã gửi TikTok Universe",
+    "diamond_count": 44999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -5213,19 +5213,6 @@
     "source": 2
   },
   {
-    "id": 17021,
-    "name": "Bánh Trung Thu",
-    "describe": "đã gửi Bánh Trung Thu",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dd7eacf80fc7c6a476fbc04742208b9c.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 17022,
     "name": "Đèn Ông Sao",
     "describe": "đã gửi Đèn Ông Sao",
@@ -6094,6 +6081,19 @@
       ]
     },
     "type": 2,
+    "source": 2
+  },
+  {
+    "id": 17021,
+    "name": "Bánh Trung Thu",
+    "describe": "đã gửi Bánh Trung Thu",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dd7eacf80fc7c6a476fbc04742208b9c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 2
   }
 ]
