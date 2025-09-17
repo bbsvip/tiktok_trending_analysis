@@ -52,19 +52,6 @@
     "source": 1
   },
   {
-    "id": 16735,
-    "name": "Nụ cười mọng nước",
-    "describe": "đã gửi Nụ cười mọng nước",
-    "diamond_count": 199,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/b897b374103a142ce550afec4c54d9aa.png~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 1
-  },
-  {
     "id": 15933,
     "name": "Music on Stage",
     "describe": "đã gửi Music on Stage",
@@ -72,6 +59,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d2a59d961490de4c72fed3690e44d1ec.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 15579,
+    "name": "Thú cưng ngoài hành tinh",
+    "describe": "đã gửi Thú cưng ngoài hành tinh",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7df71aebf196c75a8b4d553f777d5666.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -166,19 +166,6 @@
       ]
     },
     "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15579,
-    "name": "Thú cưng ngoài hành tinh",
-    "describe": "đã gửi Thú cưng ngoài hành tinh",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7df71aebf196c75a8b4d553f777d5666.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
     "source": 1
   },
   {
@@ -1138,6 +1125,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8157f47f794c8395969034574dd12082.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 1
+  },
+  {
+    "id": 16735,
+    "name": "Nụ cười mọng nước",
+    "describe": "đã gửi Nụ cười mọng nước",
+    "diamond_count": 199,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/b897b374103a142ce550afec4c54d9aa.png~tplv-obj.webp"
       ]
     },
     "type": 4,
