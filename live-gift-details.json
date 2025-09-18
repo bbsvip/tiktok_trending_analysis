@@ -3913,19 +3913,6 @@
     "source": 1
   },
   {
-    "id": 9101,
-    "name": "TikTok Universe",
-    "describe": "đã gửi TikTok Universe",
-    "diamond_count": 44999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 17237,
     "name": "Tiny Diny đang yêu",
     "describe": "đã gửi Tiny Diny đang yêu",
@@ -3936,19 +3923,6 @@
       ]
     },
     "type": 1,
-    "source": 1
-  },
-  {
-    "id": 16097,
-    "name": "Con tàu tinh tú",
-    "describe": "đã gửi Con tàu tinh tú",
-    "diamond_count": 25999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/c0fb6008b8fb11611f87076dbb52989b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
     "source": 1
   },
   {
@@ -3965,16 +3939,29 @@
     "source": 1
   },
   {
-    "id": 16130,
-    "name": "Tiny Diny cùng xúc xích",
-    "describe": "đã gửi Tiny Diny cùng xúc xích",
-    "diamond_count": 20,
+    "id": 9101,
+    "name": "TikTok Universe",
+    "describe": "đã gửi TikTok Universe",
+    "diamond_count": 44999,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/a03e11b24f157a26c49cac518450573f.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
       ]
     },
-    "type": 1,
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 16097,
+    "name": "Con tàu tinh tú",
+    "describe": "đã gửi Con tàu tinh tú",
+    "diamond_count": 25999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/c0fb6008b8fb11611f87076dbb52989b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -3985,6 +3972,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4a3dbfc29ec50176a9b4bafad10abbd.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 16130,
+    "name": "Tiny Diny cùng xúc xích",
+    "describe": "đã gửi Tiny Diny cùng xúc xích",
+    "diamond_count": 20,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/a03e11b24f157a26c49cac518450573f.png~tplv-obj.webp"
       ]
     },
     "type": 1,
