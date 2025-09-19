@@ -156,6 +156,19 @@
     "source": 1
   },
   {
+    "id": 6592,
+    "name": "TGIF",
+    "describe": "đã gửi TGIF",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
     "id": 8268,
     "name": "Chúc ngủ ngon",
     "describe": "đã gửi Chúc ngủ ngon",
@@ -179,19 +192,6 @@
       ]
     },
     "type": 2,
-    "source": 1
-  },
-  {
-    "id": 6592,
-    "name": "TGIF",
-    "describe": "đã gửi TGIF",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/2734231d880b5cd20149f4cc8c760279~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
     "source": 1
   },
   {
@@ -4069,19 +4069,6 @@
     "source": 1
   },
   {
-    "id": 16098,
-    "name": "Marcia thần thông",
-    "describe": "đã gửi Marcia thần thông",
-    "diamond_count": 42999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/10b24e92368a854fec1e487712b18a33.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 16901,
     "name": "Tiny Diny",
     "describe": "đã gửi Tiny Diny",
@@ -4108,19 +4095,6 @@
     "source": 1
   },
   {
-    "id": 16097,
-    "name": "Con tàu tinh tú",
-    "describe": "đã gửi Con tàu tinh tú",
-    "diamond_count": 25999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/c0fb6008b8fb11611f87076dbb52989b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 9101,
     "name": "TikTok Universe",
     "describe": "đã gửi TikTok Universe",
@@ -4128,6 +4102,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 16098,
+    "name": "Marcia thần thông",
+    "describe": "đã gửi Marcia thần thông",
+    "diamond_count": 42999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/10b24e92368a854fec1e487712b18a33.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4157,6 +4144,19 @@
       ]
     },
     "type": 1,
+    "source": 1
+  },
+  {
+    "id": 16097,
+    "name": "Con tàu tinh tú",
+    "describe": "đã gửi Con tàu tinh tú",
+    "diamond_count": 25999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/c0fb6008b8fb11611f87076dbb52989b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
