@@ -4212,19 +4212,6 @@
     "source": 1
   },
   {
-    "id": 16592,
-    "name": "Lưỡi hái công lý",
-    "describe": "đã gửi Lưỡi hái công lý",
-    "diamond_count": 14999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/5d5ced6572464c1cf2b0deb92845014b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 17767,
     "name": "Buồng cáp treo",
     "describe": "đã gửi Buồng cáp treo",
@@ -4232,6 +4219,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fa6b6c6d8dcb9bedf8dda904ea421f84.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 16592,
+    "name": "Lưỡi hái công lý",
+    "describe": "đã gửi Lưỡi hái công lý",
+    "diamond_count": 14999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/5d5ced6572464c1cf2b0deb92845014b.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4251,45 +4251,6 @@
     "source": 1
   },
   {
-    "id": 9322,
-    "name": "Latte vị bí ngô",
-    "describe": "đã gửi Latte vị bí ngô",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0636d91615f7417ddd5f29438bf5debe~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 17768,
-    "name": "Chiếu sáng",
-    "describe": "đã gửi Chiếu sáng",
-    "diamond_count": 7000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7d8146fc5f932ccc087d89f001b48f12.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 17764,
-    "name": "Hoa S",
-    "describe": "đã gửi Hoa S",
-    "diamond_count": 20,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/1e1f1b03b60c3d8c893bdf9aa119f5a1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 9101,
     "name": "TikTok Universe",
     "describe": "đã gửi TikTok Universe",
@@ -4303,65 +4264,13 @@
     "source": 1
   },
   {
-    "id": 6694,
-    "name": "Bẹo má",
-    "describe": "đã gửi Bẹo má",
-    "diamond_count": 199,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/d1c75692e369466b4fd23546e513caed~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 1
-  },
-  {
-    "id": 12569,
-    "name": "Bí ngô",
-    "describe": "đã gửi Bí ngô",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/c9734b74f0e4e79bdfa2ef07c393d8ee.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 16593,
-    "name": "Cánh cổng thử thách",
-    "describe": "đã gửi Cánh cổng thử thách",
-    "diamond_count": 25999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/0a36e4896f5d60399a8389c043a23edf.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 16594,
-    "name": "Vị vua huyền thoại",
-    "describe": "đã gửi Vị vua huyền thoại",
-    "diamond_count": 42999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/3790b60a52697daa138bf8d0ec27242f.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 16901,
-    "name": "Tiny Diny",
-    "describe": "đã gửi Tiny Diny",
+    "id": 9322,
+    "name": "Latte vị bí ngô",
+    "describe": "đã gửi Latte vị bí ngô",
     "diamond_count": 10,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4a3dbfc29ec50176a9b4bafad10abbd.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0636d91615f7417ddd5f29438bf5debe~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -4394,6 +4303,19 @@
     "source": 1
   },
   {
+    "id": 6694,
+    "name": "Bẹo má",
+    "describe": "đã gửi Bẹo má",
+    "diamond_count": 199,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/d1c75692e369466b4fd23546e513caed~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 1
+  },
+  {
     "id": 16130,
     "name": "Tiny Diny cùng xúc xích",
     "describe": "đã gửi Tiny Diny cùng xúc xích",
@@ -4407,6 +4329,32 @@
     "source": 1
   },
   {
+    "id": 16901,
+    "name": "Tiny Diny",
+    "describe": "đã gửi Tiny Diny",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4a3dbfc29ec50176a9b4bafad10abbd.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 16594,
+    "name": "Vị vua huyền thoại",
+    "describe": "đã gửi Vị vua huyền thoại",
+    "diamond_count": 42999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/3790b60a52697daa138bf8d0ec27242f.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
     "id": 17237,
     "name": "Tiny Diny đang yêu",
     "describe": "đã gửi Tiny Diny đang yêu",
@@ -4417,6 +4365,58 @@
       ]
     },
     "type": 1,
+    "source": 1
+  },
+  {
+    "id": 17764,
+    "name": "Hoa S",
+    "describe": "đã gửi Hoa S",
+    "diamond_count": 20,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/1e1f1b03b60c3d8c893bdf9aa119f5a1.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 12569,
+    "name": "Bí ngô",
+    "describe": "đã gửi Bí ngô",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/c9734b74f0e4e79bdfa2ef07c393d8ee.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 16593,
+    "name": "Cánh cổng thử thách",
+    "describe": "đã gửi Cánh cổng thử thách",
+    "diamond_count": 25999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/0a36e4896f5d60399a8389c043a23edf.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 17768,
+    "name": "Chiếu sáng",
+    "describe": "đã gửi Chiếu sáng",
+    "diamond_count": 7000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7d8146fc5f932ccc087d89f001b48f12.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
