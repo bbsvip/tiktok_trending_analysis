@@ -143,19 +143,6 @@
     "source": 1
   },
   {
-    "id": 15579,
-    "name": "Thú cưng ngoài hành tinh",
-    "describe": "đã gửi Thú cưng ngoài hành tinh",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7df71aebf196c75a8b4d553f777d5666.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 8269,
     "name": "Buổi sáng tốt lành",
     "describe": "đã gửi Buổi sáng tốt lành",
@@ -166,6 +153,19 @@
       ]
     },
     "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15579,
+    "name": "Thú cưng ngoài hành tinh",
+    "describe": "đã gửi Thú cưng ngoài hành tinh",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7df71aebf196c75a8b4d553f777d5666.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 1
   },
   {
@@ -4394,19 +4394,6 @@
     "source": 1
   },
   {
-    "id": 9322,
-    "name": "Latte vị bí ngô",
-    "describe": "đã gửi Latte vị bí ngô",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0636d91615f7417ddd5f29438bf5debe~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 9101,
     "name": "TikTok Universe",
     "describe": "đã gửi TikTok Universe",
@@ -4414,6 +4401,45 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 12569,
+    "name": "Bí ngô",
+    "describe": "đã gửi Bí ngô",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/c9734b74f0e4e79bdfa2ef07c393d8ee.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 17682,
+    "name": "Chiến binh Arnold",
+    "describe": "đã gửi Chiến binh Arnold",
+    "diamond_count": 42999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/39e6edaa867fd08963b4a5e5db3862bc.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 17670,
+    "name": "Lời thề của Valerian",
+    "describe": "đã gửi Lời thề của Valerian",
+    "diamond_count": 42999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/27408e0429e288fc735e9f010da9fcf3.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4433,32 +4459,6 @@
     "source": 1
   },
   {
-    "id": 17766,
-    "name": "YÊU BẠN",
-    "describe": "đã gửi YÊU BẠN",
-    "diamond_count": 899,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/79d45877691333e2ba69a9098406e95c.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 17680,
-    "name": "Thần cung",
-    "describe": "đã gửi Thần cung",
-    "diamond_count": 14999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/53ce21ad7be2d7897a06c98523751a91.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 16874,
     "name": "Đại tiệc Fest",
     "describe": "đã gửi Đại tiệc Fest",
@@ -4472,13 +4472,26 @@
     "source": 1
   },
   {
-    "id": 17767,
-    "name": "Buồng cáp treo",
-    "describe": "đã gửi Buồng cáp treo",
-    "diamond_count": 1999,
+    "id": 9322,
+    "name": "Latte vị bí ngô",
+    "describe": "đã gửi Latte vị bí ngô",
+    "diamond_count": 10,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fa6b6c6d8dcb9bedf8dda904ea421f84.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/0636d91615f7417ddd5f29438bf5debe~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 17766,
+    "name": "YÊU BẠN",
+    "describe": "đã gửi YÊU BẠN",
+    "diamond_count": 899,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/79d45877691333e2ba69a9098406e95c.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4498,26 +4511,13 @@
     "source": 1
   },
   {
-    "id": 12843,
-    "name": "Bánh bí ngô",
-    "describe": "đã gửi Bánh bí ngô",
-    "diamond_count": 5,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/98c1588235d99cdfa00698ea236ba8e3.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 17668,
-    "name": "Phong vũ kiếm",
-    "describe": "đã gửi Phong vũ kiếm",
+    "id": 17680,
+    "name": "Thần cung",
+    "describe": "đã gửi Thần cung",
     "diamond_count": 14999,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d18ee809ac8b5198a34d05f1392c0dfa.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/53ce21ad7be2d7897a06c98523751a91.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4537,6 +4537,58 @@
     "source": 1
   },
   {
+    "id": 17668,
+    "name": "Phong vũ kiếm",
+    "describe": "đã gửi Phong vũ kiếm",
+    "diamond_count": 14999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d18ee809ac8b5198a34d05f1392c0dfa.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 17767,
+    "name": "Buồng cáp treo",
+    "describe": "đã gửi Buồng cáp treo",
+    "diamond_count": 1999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fa6b6c6d8dcb9bedf8dda904ea421f84.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 16872,
+    "name": "Cặp kính đậm chất Fest",
+    "describe": "đã gửi Cặp kính đậm chất Fest",
+    "diamond_count": 99,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f67996c7574ba36c478adc80583347a7.png~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 1
+  },
+  {
+    "id": 12843,
+    "name": "Bánh bí ngô",
+    "describe": "đã gửi Bánh bí ngô",
+    "diamond_count": 5,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/98c1588235d99cdfa00698ea236ba8e3.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
     "id": 17681,
     "name": "Ngôi đền thái dương",
     "describe": "đã gửi Ngôi đền thái dương",
@@ -4550,16 +4602,16 @@
     "source": 1
   },
   {
-    "id": 17768,
-    "name": "Chiếu sáng",
-    "describe": "đã gửi Chiếu sáng",
-    "diamond_count": 7000,
+    "id": 17764,
+    "name": "Hoa S",
+    "describe": "đã gửi Hoa S",
+    "diamond_count": 20,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7d8146fc5f932ccc087d89f001b48f12.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/1e1f1b03b60c3d8c893bdf9aa119f5a1.png~tplv-obj.webp"
       ]
     },
-    "type": 2,
+    "type": 1,
     "source": 1
   },
   {
@@ -4589,68 +4641,16 @@
     "source": 1
   },
   {
-    "id": 17764,
-    "name": "Hoa S",
-    "describe": "đã gửi Hoa S",
-    "diamond_count": 20,
+    "id": 17768,
+    "name": "Chiếu sáng",
+    "describe": "đã gửi Chiếu sáng",
+    "diamond_count": 7000,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/1e1f1b03b60c3d8c893bdf9aa119f5a1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 17682,
-    "name": "Chiến binh Arnold",
-    "describe": "đã gửi Chiến binh Arnold",
-    "diamond_count": 42999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/39e6edaa867fd08963b4a5e5db3862bc.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/7d8146fc5f932ccc087d89f001b48f12.png~tplv-obj.webp"
       ]
     },
     "type": 2,
-    "source": 1
-  },
-  {
-    "id": 16872,
-    "name": "Cặp kính đậm chất Fest",
-    "describe": "đã gửi Cặp kính đậm chất Fest",
-    "diamond_count": 99,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f67996c7574ba36c478adc80583347a7.png~tplv-obj.webp"
-      ]
-    },
-    "type": 4,
-    "source": 1
-  },
-  {
-    "id": 17670,
-    "name": "Lời thề của Valerian",
-    "describe": "đã gửi Lời thề của Valerian",
-    "diamond_count": 42999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/27408e0429e288fc735e9f010da9fcf3.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 12569,
-    "name": "Bí ngô",
-    "describe": "đã gửi Bí ngô",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/c9734b74f0e4e79bdfa2ef07c393d8ee.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
     "source": 1
   },
   {
