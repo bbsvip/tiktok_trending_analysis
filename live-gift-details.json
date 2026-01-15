@@ -91,16 +91,16 @@
     "source": 1
   },
   {
-    "id": 16896,
-    "name": "Rose Hand",
-    "describe": "đã gửi Rose Hand",
-    "diamond_count": 199,
+    "id": 18375,
+    "name": "Ván trượt tuyết",
+    "describe": "đã gửi Ván trượt tuyết",
+    "diamond_count": 9,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/805e6b8051d50ca6e6c9b74d5fc89045.png~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/18293f214fe401cb068928259f51f131.png~tplv-obj.webp"
       ]
     },
-    "type": 2,
+    "type": 1,
     "source": 1
   },
   {
@@ -540,19 +540,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/a4c4dc437fd3a6632aba149769491f49.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
-    "id": 18375,
-    "name": "Ván trượt tuyết",
-    "describe": "đã gửi Ván trượt tuyết",
-    "diamond_count": 9,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/18293f214fe401cb068928259f51f131.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -1271,6 +1258,19 @@
       ]
     },
     "type": 4,
+    "source": 1
+  },
+  {
+    "id": 16896,
+    "name": "Rose Hand",
+    "describe": "đã gửi Rose Hand",
+    "diamond_count": 199,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/805e6b8051d50ca6e6c9b74d5fc89045.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
