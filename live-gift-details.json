@@ -4472,6 +4472,19 @@
     "source": 1
   },
   {
+    "id": 12853,
+    "name": "Phi thuyền cấp độ",
+    "describe": "đã gửi Phi thuyền cấp độ",
+    "diamond_count": 21000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/aca72c59f99d08b0c0d1cd6cc79dbb16.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
     "id": 12852,
     "name": "Phi thuyền cấp độ",
     "describe": "đã gửi Phi thuyền cấp độ",
@@ -4495,32 +4508,6 @@
       ]
     },
     "type": 4,
-    "source": 1
-  },
-  {
-    "id": 12853,
-    "name": "Phi thuyền cấp độ",
-    "describe": "đã gửi Phi thuyền cấp độ",
-    "diamond_count": 21000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/aca72c59f99d08b0c0d1cd6cc79dbb16.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 18789,
-    "name": "Lucky Pony",
-    "describe": "đã gửi Lucky Pony",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8d005c54c988a6353777ce9c06cfb9cc.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
     "source": 1
   },
   {
@@ -4550,19 +4537,6 @@
     "source": 1
   },
   {
-    "id": 18790,
-    "name": "Doll New Year Greeting",
-    "describe": "đã gửi Doll New Year Greeting",
-    "diamond_count": 1999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/5ec37123593a6fd309cee3ddc1f93de6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 18792,
     "name": "LNY Horse",
     "describe": "đã gửi LNY Horse",
@@ -4586,6 +4560,32 @@
       ]
     },
     "type": 4,
+    "source": 1
+  },
+  {
+    "id": 18790,
+    "name": "Doll New Year Greeting",
+    "describe": "đã gửi Doll New Year Greeting",
+    "diamond_count": 1999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/5ec37123593a6fd309cee3ddc1f93de6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 18789,
+    "name": "Lucky Pony",
+    "describe": "đã gửi Lucky Pony",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8d005c54c988a6353777ce9c06cfb9cc.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 1
   },
   {
