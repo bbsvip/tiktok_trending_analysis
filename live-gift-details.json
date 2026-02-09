@@ -4550,6 +4550,19 @@
     "source": 1
   },
   {
+    "id": 7934,
+    "name": "Thả tim cho tôi",
+    "describe": "đã gửi Thả tim cho tôi",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/d56945782445b0b8c8658ed44f894c7b~tplv-obj.webp"
+      ]
+    },
+    "type": 4,
+    "source": 1
+  },
+  {
     "id": 12853,
     "name": "Phi thuyền cấp độ",
     "describe": "đã gửi Phi thuyền cấp độ",
@@ -4576,16 +4589,29 @@
     "source": 1
   },
   {
-    "id": 7934,
-    "name": "Thả tim cho tôi",
-    "describe": "đã gửi Thả tim cho tôi",
-    "diamond_count": 1,
+    "id": 19068,
+    "name": "Cúp của Giải đấu",
+    "describe": "đã gửi Cúp của Giải đấu",
+    "diamond_count": 599,
     "image": {
       "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/d56945782445b0b8c8658ed44f894c7b~tplv-obj.webp"
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fe5bf1d97adafcdc675222a9facfe6ee.png~tplv-obj.webp"
       ]
     },
-    "type": 4,
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 19071,
+    "name": "Cộng đồng người hâm mộ của Giải đấu",
+    "describe": "đã gửi Cộng đồng người hâm mộ của Giải đấu",
+    "diamond_count": 5000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/b49db707b60b5e71e7fc2335a5d93b22.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -4602,6 +4628,19 @@
     "source": 1
   },
   {
+    "id": 18791,
+    "name": "Vòng danh vọng-lập phương",
+    "describe": "đã gửi Vòng danh vọng-lập phương",
+    "diamond_count": 2999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/bb5cbc1ff2bf4370873a1fe98e2b6b50.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
     "id": 18790,
     "name": "Búp bê mừng năm mới",
     "describe": "đã gửi Búp bê mừng năm mới",
@@ -4615,19 +4654,6 @@
     "source": 1
   },
   {
-    "id": 18792,
-    "name": "Xuân Mã",
-    "describe": "đã gửi Xuân Mã",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ec26ec5a61ad0490b70e31d6dbe128bc.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 19067,
     "name": "Đồng hồ đếm ngược của Giải đấu",
     "describe": "đã gửi Đồng hồ đếm ngược của Giải đấu",
@@ -4635,6 +4661,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/936d94c2e9267c3fa099127fba4e30a2.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 18792,
+    "name": "Xuân Mã",
+    "describe": "đã gửi Xuân Mã",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ec26ec5a61ad0490b70e31d6dbe128bc.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4677,45 +4716,6 @@
       ]
     },
     "type": 1,
-    "source": 1
-  },
-  {
-    "id": 19071,
-    "name": "Cộng đồng người hâm mộ của Giải đấu",
-    "describe": "đã gửi Cộng đồng người hâm mộ của Giải đấu",
-    "diamond_count": 5000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/b49db707b60b5e71e7fc2335a5d93b22.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 18791,
-    "name": "Vòng danh vọng-lập phương",
-    "describe": "đã gửi Vòng danh vọng-lập phương",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/bb5cbc1ff2bf4370873a1fe98e2b6b50.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 19068,
-    "name": "Cúp của Giải đấu",
-    "describe": "đã gửi Cúp của Giải đấu",
-    "diamond_count": 599,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fe5bf1d97adafcdc675222a9facfe6ee.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
     "source": 1
   },
   {
@@ -6110,19 +6110,6 @@
     "source": 2
   },
   {
-    "id": 38013,
-    "name": "Nụ Cười Hồng",
-    "describe": "đã gửi Nụ Cười Hồng",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768278217964_0.93a5aa2016fd7b32d86192735a35252e.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 29076,
     "name": "Bunny Mộng Mơ",
     "describe": "đã gửi Bunny Mộng Mơ",
@@ -6169,32 +6156,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768330148095_0.5e57d1b1a9e291296bee6c845fa2a656.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 29863,
-    "name": "Bé Bự Má Lúm",
-    "describe": "đã gửi Bé Bự Má Lúm",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768327973307_0.924de5ccd15637b41840a2b37dfc8a24.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 32066,
-    "name": "Pijama Tinh Nghịch",
-    "describe": "đã gửi Pijama Tinh Nghịch",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767838292363_0.bd2cbed007fa9521c0aa0a9f7eb77313.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -6331,32 +6292,6 @@
     "source": 2
   },
   {
-    "id": 7569,
-    "name": "Tay cầm chơi game",
-    "describe": "đã gửi Tay cầm chơi game",
-    "diamond_count": 100,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/20ec0eb50d82c2c445cb8391fd9fe6e2~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
-    "id": 12988,
-    "name": "GG siêu khủng",
-    "describe": "đã gửi GG siêu khủng",
-    "diamond_count": 100,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/cbd7588c53ec3df1af0ed6d041566362.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
     "id": 22535,
     "name": "Lan Thỏ",
     "describe": "đã gửi Lan Thỏ",
@@ -6367,19 +6302,6 @@
       ]
     },
     "type": 1,
-    "source": 2
-  },
-  {
-    "id": 19554,
-    "name": "Túi Kim Phúc",
-    "describe": "đã gửi Túi Kim Phúc",
-    "diamond_count": 1999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/245ca8ab6903fa00e31508306197e09f.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
     "source": 2
   },
   {
@@ -7683,6 +7605,19 @@
     "source": 2
   },
   {
+    "id": 32066,
+    "name": "Pijama Tinh Nghịch",
+    "describe": "đã gửi Pijama Tinh Nghịch",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767838292363_0.bd2cbed007fa9521c0aa0a9f7eb77313.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 44258,
     "name": "Lẩu Ra dại",
     "describe": "đã gửi Lẩu Ra dại",
@@ -7690,6 +7625,45 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768344373114_0.95fe722d8aff6daee17b1a1aec7dc53c.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 44124,
+    "name": "Mèo Của Chập",
+    "describe": "đã gửi Mèo Của Chập",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767846865847_0.2efc34efe6302bc2d129ea3438f4dc6d.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 38013,
+    "name": "Nụ Cười Hồng",
+    "describe": "đã gửi Nụ Cười Hồng",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768278217964_0.93a5aa2016fd7b32d86192735a35252e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 29863,
+    "name": "Bé Bự Má Lúm",
+    "describe": "đã gửi Bé Bự Má Lúm",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768327973307_0.924de5ccd15637b41840a2b37dfc8a24.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -7807,6 +7781,45 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/336b01d60df8d3113fb4e5a9c431aff0.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 19554,
+    "name": "Túi Kim Phúc",
+    "describe": "đã gửi Túi Kim Phúc",
+    "diamond_count": 1999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/245ca8ab6903fa00e31508306197e09f.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 7569,
+    "name": "Tay cầm chơi game",
+    "describe": "đã gửi Tay cầm chơi game",
+    "diamond_count": 100,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/20ec0eb50d82c2c445cb8391fd9fe6e2~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 12988,
+    "name": "GG siêu khủng",
+    "describe": "đã gửi GG siêu khủng",
+    "diamond_count": 100,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/cbd7588c53ec3df1af0ed6d041566362.png~tplv-obj.webp"
       ]
     },
     "type": 2,
