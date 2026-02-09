@@ -39,19 +39,6 @@
     "source": 1
   },
   {
-    "id": 8495,
-    "name": "Đôi cánh thiên thần",
-    "describe": "đã gửi Đôi cánh thiên thần",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e504dc2f313b8c6df9e99a848e1b3a99.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 15231,
     "name": "Yêu bạn",
     "describe": "đã gửi Yêu bạn",
@@ -59,6 +46,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fc549cf1bc61f9c8a1c97ebab68dced7.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 1
+  },
+  {
+    "id": 8495,
+    "name": "Đôi cánh thiên thần",
+    "describe": "đã gửi Đôi cánh thiên thần",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e504dc2f313b8c6df9e99a848e1b3a99.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -4615,32 +4615,6 @@
     "source": 1
   },
   {
-    "id": 18792,
-    "name": "Xuân Mã",
-    "describe": "đã gửi Xuân Mã",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ec26ec5a61ad0490b70e31d6dbe128bc.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 18790,
-    "name": "Búp bê mừng năm mới",
-    "describe": "đã gửi Búp bê mừng năm mới",
-    "diamond_count": 1999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/5ec37123593a6fd309cee3ddc1f93de6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 18789,
     "name": "Pony may mắn",
     "describe": "đã gửi Pony may mắn",
@@ -4651,6 +4625,19 @@
       ]
     },
     "type": 1,
+    "source": 1
+  },
+  {
+    "id": 9101,
+    "name": "TikTok Universe",
+    "describe": "đã gửi TikTok Universe",
+    "diamond_count": 44999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -4680,19 +4667,6 @@
     "source": 1
   },
   {
-    "id": 9101,
-    "name": "TikTok Universe",
-    "describe": "đã gửi TikTok Universe",
-    "diamond_count": 44999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/8f471afbcebfda3841a6cc515e381f58~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 18791,
     "name": "Vòng danh vọng-lập phương",
     "describe": "đã gửi Vòng danh vọng-lập phương",
@@ -4700,6 +4674,32 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/bb5cbc1ff2bf4370873a1fe98e2b6b50.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 18792,
+    "name": "Xuân Mã",
+    "describe": "đã gửi Xuân Mã",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/ec26ec5a61ad0490b70e31d6dbe128bc.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 18790,
+    "name": "Búp bê mừng năm mới",
+    "describe": "đã gửi Búp bê mừng năm mới",
+    "diamond_count": 1999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/5ec37123593a6fd309cee3ddc1f93de6.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -6123,19 +6123,6 @@
     "source": 2
   },
   {
-    "id": 43377,
-    "name": "Tiểu Hổ Kiêu Sa",
-    "describe": "đã gửi Tiểu Hổ Kiêu Sa",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768319401722_0.cdbcdedba322287160ccdaef837c4661.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 37448,
     "name": "Sora Nơ Đen",
     "describe": "đã gửi Sora Nơ Đen",
@@ -6156,19 +6143,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768278217964_0.93a5aa2016fd7b32d86192735a35252e.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 29956,
-    "name": "Bé Dừa Zili",
-    "describe": "đã gửi Bé Dừa Zili",
-    "diamond_count": 1,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767290876848_0.4d34783a1798bd6e817021ee0f430ca4.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -6299,71 +6273,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768520214843_0.b21e95a2c45db2fdcbc592440ca2a7f8.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 15478,
-    "name": "Bún bò",
-    "describe": "đã gửi Bún bò",
-    "diamond_count": 5,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9bbcc81bc2804318e80bfc926e45c02e.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 7756,
-    "name": "Bánh chưng",
-    "describe": "đã gửi Bánh chưng",
-    "diamond_count": 5,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/e002b7883242205b644d15972dbfd743~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 25339,
-    "name": "Kẹo ngọt",
-    "describe": "đã gửi Kẹo ngọt",
-    "diamond_count": 19,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/c44295e9476c243ddaa6c0d3d708671b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 25338,
-    "name": "Bánh trôi tàu",
-    "describe": "đã gửi Bánh trôi tàu",
-    "diamond_count": 9,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8e9f0f0776d85702a27275792c85181b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 25340,
-    "name": "Phở",
-    "describe": "đã gửi Phở",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/e45927083072ffe0015253d11e11a3b3.png~tplv-obj.webp"
       ]
     },
     "type": 1,
@@ -7696,6 +7605,32 @@
     "source": 2
   },
   {
+    "id": 42954,
+    "name": "Như iu 76",
+    "describe": "đã gửi Như iu 76",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767841350555_0.476917874c6ec2de19fe76278ede3e0e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 29956,
+    "name": "Bé Dừa Zili",
+    "describe": "đã gửi Bé Dừa Zili",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1767290876848_0.4d34783a1798bd6e817021ee0f430ca4.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
     "id": 18279,
     "name": "2026",
     "describe": "đã gửi 2026",
@@ -7732,6 +7667,84 @@
       ]
     },
     "type": 4,
+    "source": 2
+  },
+  {
+    "id": 43377,
+    "name": "Tiểu Hổ Kiêu Sa",
+    "describe": "đã gửi Tiểu Hổ Kiêu Sa",
+    "diamond_count": 1,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/saliency_seg_1768319401722_0.cdbcdedba322287160ccdaef837c4661.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 15478,
+    "name": "Bún bò",
+    "describe": "đã gửi Bún bò",
+    "diamond_count": 5,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9bbcc81bc2804318e80bfc926e45c02e.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 7756,
+    "name": "Bánh chưng",
+    "describe": "đã gửi Bánh chưng",
+    "diamond_count": 5,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/e002b7883242205b644d15972dbfd743~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 25339,
+    "name": "Kẹo ngọt",
+    "describe": "đã gửi Kẹo ngọt",
+    "diamond_count": 19,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/c44295e9476c243ddaa6c0d3d708671b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 25338,
+    "name": "Bánh trôi tàu",
+    "describe": "đã gửi Bánh trôi tàu",
+    "diamond_count": 9,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/8e9f0f0776d85702a27275792c85181b.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 25340,
+    "name": "Phở",
+    "describe": "đã gửi Phở",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/e45927083072ffe0015253d11e11a3b3.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 2
   }
 ]
